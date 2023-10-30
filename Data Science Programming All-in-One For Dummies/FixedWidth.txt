@@ -1,1 +1,0 @@
-Color ValueRed       1Orange    2Yellow    3Green     4Blue      5Indigo    6Purple    7Black     8White     9Gray     10
